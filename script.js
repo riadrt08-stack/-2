@@ -1,4 +1,4 @@
-const openTime = new Date("2026-02-10 09:00:00").getTime(); // فتح الصبح
+const openTime = new Date("2026-02-14  00:00:00").getTime(); // فتح الصبح
 
 function check(){
   let p = document.getElementById("pass").value;
